@@ -1,31 +1,39 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+https://marcelloborromeo.github.io/2023-Portfolio/
 
+## About This Portfolio
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+This portfolio showcases my early work as a sophomore at Arizona State University, where I began building a foundation in **data analytics, product strategy, and research-driven innovation**. I created this site to document my early projects, professional experiences, and applied learning in analytics, business, and technology.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+At this stage of my career, I was exploring how data can inform business decisions, improve processes, and create measurable impact. I combined technical skills with curiosity and initiative, building this website from scratch with no prior web development experience.
 
-(* = not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+## Early Career Highlights
 
+* Led research on emerging tracking technologies for a sustainability initiative, resulting in a **55-page formal analysis** presented to an executive team.
+* Developed **decision-making criteria** for a product pilot program, identifying key innovation factors through cost-benefit analysis.
+* Managed **20 client profiles** and built **10+ onboarding SOPs** to streamline internal workflows and reduce training time for new hires.
 
-Credits:
+---
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## Current Focus (at the time)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+* **Internship:** Business Intern, Insight Enterprises
+* **Research Project:** Convolutional Neural Networks for Colorectal Cancer Detection (Banner Health)
+* **Learning Path:** Practitioner Certificate, International Institute of Business Analysis
+* **Technical Skills:** Excel, PowerPoint, SQL, Python (Anaconda), HTML, Tableau
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+
+## Selected Projects
+
+* **ASU–Starbucks Trackable Cup Case Study** — Researched sustainable product tracking technologies and presented actionable findings.
+* **Marketing Data Analytics Case Study** — Analyzed consumer activity data using Python and Tableau for insights into physical activity trends.
+* **Data Science Exercises** — Implemented linear regression and predictive models as part of The Complete Data Science Bootcamp 2024.
+* **Colorectal Cancer Research (in progress)** — Collaborating with Banner Health’s MD Anderson Cancer Center to apply convolutional neural networks to medical imaging.
+
+---
+
+## Purpose
+
+This portfolio represents my starting point as an aspiring data practitioner and product thinker. It captures how I applied what I was learning in class to real-world projects and how I used curiosity and initiative to explore new fields in analytics, research, and technology.
