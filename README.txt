@@ -1,4 +1,4 @@
-https://marcelloborromeo.github.io/2023-Portfolio/
+https://marcelloborromeo.github.io/professional-portfolio-2023/
 
 ## About This Portfolio
 
@@ -37,3 +37,4 @@ At this stage of my career, I was exploring how data can inform business decisio
 ## Purpose
 
 This portfolio represents my starting point as an aspiring data practitioner and product thinker. It captures how I applied what I was learning in class to real-world projects and how I used curiosity and initiative to explore new fields in analytics, research, and technology.
+
